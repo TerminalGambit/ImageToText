@@ -24,4 +24,5 @@ for path in image_paths:
 
 # Print the list of extracted texts
 # Each element in the list corresponds to the text extracted from one image
-print(extracted_texts)
+if '__main__' == __name__:
+    print(extracted_texts)
