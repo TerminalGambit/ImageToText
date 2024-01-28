@@ -1,7 +1,3 @@
-Sure, here's a README for your Python script:
-
----
-
 # Text Extraction from Images using Tesseract OCR
 
 This Python script uses the Tesseract OCR (Optical Character Recognition) engine to extract text from images. The script is currently set up to extract French text from two images: 'img1.png' and 'img2.png'.
