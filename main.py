@@ -5,7 +5,7 @@ import pytesseract  # pytesseract is an OCR tool for python (a wrapper for Googl
 # Define a list of image paths. In this case, we have two images: 'img1.png' and 'img2.png'.
 # These images are presumably located in the same directory as this script.
 # If they're located in a different directory, you should provide the full path to the images.
-image_paths = ['img1.png', 'img2.png']
+image_paths = ['img1.png', 'img2.png', 'img3.png']
 
 # Initialize an empty list to store the extracted text from each image
 extracted_texts = []
